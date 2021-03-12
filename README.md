@@ -2,9 +2,9 @@
 ### Background
 One of the more **iconic** video streaming websites of the modern internet is [Twitch](https://www.twitch.tv/). 
 What originally started as a streaming website for just video games, it has branched out to several different types of media including streaming television shows and people eating food.
-![Screenshot of Apex Legends](twitchgame.png)
-![Screenshot of People Eating](mukbang.jpeg)
-![Screenshot of Twitch Presents Pokemon](twitchpokemon.jpg)
+![Screenshot of Regular Twitch](regular-twitch.png)
+![Screenshot of People Eating](mukbang.jpg)
+![Screenshot of Twitch Presents Pokemon](pokemon-twitch-1.jpg)
 
 As seen from the screenshots above, Twitch has this feature that allows users to write in a group chat box for everyone to see while enjoying the stream. This group of people is typically known as **Twitch Chat**.
 Twitch Chat is often chaotic, full of memes, and not censored unless if the streamer themselves enforce a form of censorship.
