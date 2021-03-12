@@ -638,7 +638,7 @@ plotly.offline.iplot(dict(data=[go.Scatter(llcontrastscatter(finalscount, dliftc
                                       yaxis=dict(type='log', title=u'Doublelift'))))
 ```
 
-## Please checkout out the Plotlys.html for a more interactive graph
+## Please checkout out [this website](https://twitch-chat-analysis-plotly.netlify.app/) for a more interactive graph
 
 ![plot3](plot1.png)
 
