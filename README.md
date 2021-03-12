@@ -1,4 +1,5 @@
 ## Introduction
+This README is a processed version of the original Python Juypter Notebook.
 ### Background
 One of the more **iconic** video streaming websites of the modern internet is [Twitch](https://www.twitch.tv/). 
 What originally started as a streaming website for just video games, it has branched out to several different types of media including streaming television shows and people eating food.
