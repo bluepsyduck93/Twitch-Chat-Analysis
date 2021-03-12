@@ -3,6 +3,7 @@
 One of the more **iconic** video streaming websites of the modern internet is [Twitch](https://www.twitch.tv/). 
 What originally started as a streaming website for just video games, it has branched out to several different types of media including streaming television shows and people eating food.
 ![Screenshot of Regular Twitch](regular-twitch.png)
+![Screenshot of Twitch with Chat](twitch-chat-box-ex.png)
 ![Screenshot of People Eating](mukbang.jpg)
 ![Screenshot of Twitch Presents Pokemon](pokemon-twitch-1.jpg)
 
