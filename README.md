@@ -33,7 +33,7 @@ While some results were expected, some were not completetly expected.
 
 The expectations:
 
-1. The League of Legends Official World's Finals Stream is going to have a lot of memes about Hong Kong in it because of the [incident with Blizzard Entertainment](https://www.cnet.com/news/blizzard-hearthstone-and-the-hong-kong-protests-heres-what-you-need-to-know/) and [Riot Games' very well known affliation with Tencent](https://www.polygon.com/2015/12/16/10326320/riot-games-now-owned-entirely-by-tencent).
+1. The League of Legends Official World's Finals Stream is going to have a lot of memes about Hong Kong in it because of the [incident with Blizzard Entertainment](https://www.cnet.com/news/blizzard-hearthstone-and-the-hong-kong-protests-heres-what-you-need-to-know/).
 2. The Pokemon Stream should be more positive than the video game streams.
 3. There should not be too much specific terminology overlap between the video game streams and Pokemon.
 
