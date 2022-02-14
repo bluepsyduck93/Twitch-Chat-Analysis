@@ -647,7 +647,7 @@ plotly.offline.iplot(dict(data=[go.Scatter(llcontrastscatter(finalscount, dliftc
 
 1. Pog : Common in both - People make pretty exciting players
 2. @doublelift : More in Doublelift's - It's a way to ping the streamer
-3. Hong Kong : More in the Official - Riot's affliation with Tencent
+3. Hong Kong : More in the Official - Blizzard Incident
 
 ### Surprising
 1. Naruto : Common in both - Why is anime talked about in a video game stream?
